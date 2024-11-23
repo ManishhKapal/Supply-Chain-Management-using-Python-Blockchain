@@ -1,0 +1,5 @@
+hashlib # Built-in library, no need to install separately
+json    # Built-in library, no need to install separately
+time    # Built-in library, no need to install separately
+
+streamlit<=1.26.0  # Replace with the latest version you have used
