@@ -8,7 +8,7 @@ This project is a **Supply Chain Management System** built using **Python** and 
 
 ## 🚀 Features
 - **Blockchain Integration**: Secure and immutable record-keeping using blockchain principles.
-- **Real-Time Tracking**: Track products throughout the supply chain lifecycle.
+- **Real-time Tracking**: Track products throughout the supply chain lifecycle.
 - **Decentralized Ledger**: Distributed architecture ensures no single point of failure.
 - **Interactive Frontend**: User-friendly interface powered by Streamlit.
 - **Customizable**: Adaptable to various industries and use cases.
