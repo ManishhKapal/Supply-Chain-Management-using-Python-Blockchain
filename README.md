@@ -11,7 +11,7 @@ This project is a **Supply Chain Management System** built using **Python** and 
 - **Real-time Tracking**: Track products throughout the supply chain lifecycle.
 - **Decentralized Ledger**: Distributed architecture ensures no single point of failure.
 - **Interactive Frontend**: User-friendly interface powered by Streamlit.
-- **Customizable**: Adaptable to various industries and use cases.
+- **Customizable**: adaptable to various industries and use cases.
 
 ---
 
